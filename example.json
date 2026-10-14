@@ -1,0 +1,13 @@
+{
+  "id":"meaning-reader-original-demo-v1",
+  "title":"Learning to read in meaning groups",
+  "subtitle":"Original bilingual demo · 自写示例 · MIT licensed",
+  "pairs":[
+    {"page":1,"en":"A reader can understand a difficult paper more easily when each idea stays close to its translation.","zh":"当每个意思都紧挨着对应翻译时，读者更容易理解一篇难懂的论文。","chunks":[{"text":"A reader can understand a difficult paper more easily","role":"main"},{"text":"when each idea stays close to its translation.","role":"condition"}]},
+    {"page":1,"en":"Rather than translating every word, try to recognize phrases that belong together.","zh":"与其逐词翻译，不如尝试辨认意思连在一起的词组。","chunks":[{"text":"Rather than translating every word,","role":"contrast"},{"text":"try to recognize phrases that belong together.","role":"main"}]},
+    {"page":1,"en":"The soft colors are reading hints. They do not represent the only correct grammatical analysis.","zh":"浅色块是阅读提示。它们不代表唯一正确的语法分析。"},
+    {"page":1,"en":"You can listen to the English while following the highlighted paragraph. Pause whenever you need more time.","zh":"你可以听英文，同时跟随高亮段落阅读。需要更多时间时，随时暂停。"},
+    {"page":2,"en":"A useful reading tool should give you control over its pace, voice, and display.","zh":"一个有用的阅读工具，应让你控制阅读节奏、声音和显示方式。"},
+    {"page":2,"en":"Short bilingual paragraphs reduce the distance between the original text and the explanation.","zh":"简短的双语段落，可以缩短原文与解释之间的距离。"}
+  ]
+}
